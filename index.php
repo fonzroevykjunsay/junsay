@@ -5,7 +5,6 @@
 <body>
 
 <div class="flower">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -35,7 +34,6 @@
       </svg>
   </div>
   <div class="flower1">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -65,7 +63,6 @@
       </svg>
   </div>
   <div class="flower2">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -95,7 +92,6 @@
       </svg>
   </div>
   <div class="flower3">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -125,7 +121,6 @@
       </svg>
   </div>
   <div class="flower4">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -155,7 +150,6 @@
       </svg>
   </div>
   <div class="flower5">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -185,7 +179,6 @@
       </svg>
   </div>
   <div class="flower6">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -214,7 +207,6 @@
       </svg>
   </div>
   <div class="flower7">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -243,7 +235,6 @@
       </svg>
   </div>
   <div class="flower8">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -272,7 +263,6 @@
       </svg>
   </div>
   <div class="flower9">
-    <?xml version="1.0" standalone="no"?>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
